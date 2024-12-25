@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b68c9e07-9a34-4328-9bdd-84e02b42b2ac" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2qfgcmaOhKZjAici8KjpZdIRMMX" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vigneshbalakrishnan/string-calculator&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RubyModuleManagerSettings">
+    <option name="shouldAskUser" value="false" />
+    <option name="shouldCreateModules" value="false" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b68c9e07-9a34-4328-9bdd-84e02b42b2ac" name="Changes" comment="" />
+      <created>1735059126119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735059126119</updated>
+      <workItem from="1735059128224" duration="465000" />
+      <workItem from="1735059598254" duration="1067000" />
+      <workItem from="1735060670287" duration="5344000" />
+      <workItem from="1735102109205" duration="38000" />
+      <workItem from="1735102159703" duration="53000" />
+      <workItem from="1735102260810" duration="1333000" />
+      <workItem from="1735106789634" duration="52000" />
+      <workItem from="1735106845299" duration="9000" />
+      <workItem from="1735106873984" duration="5000" />
+      <workItem from="1735106896594" duration="61000" />
+      <workItem from="1735106984418" duration="202000" />
+      <workItem from="1735107191574" duration="6000" />
+      <workItem from="1735107218199" duration="73000" />
+      <workItem from="1735107295903" duration="125000" />
+      <workItem from="1735107424689" duration="2000" />
+    </task>
+    <servers />
+  </component>
+</project>
