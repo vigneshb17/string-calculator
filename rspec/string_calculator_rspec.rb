@@ -1,6 +1,6 @@
-require 'string_calculator'
+require './string_calculator.rb'
 
-Rspec.describe 'StringCalculator' do
+RSpec.describe 'StringCalculator' do
    describe '#add' do
       context 'with negative cases' do
         before :each, create_calculator_object: true do 
