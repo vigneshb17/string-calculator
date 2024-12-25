@@ -21,15 +21,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/vigneshbalakrishnan/string-calculator&quot;,
-    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "add__operation",
+    "last_opened_file_path": "/Users/vigneshbalakrishnan/string-calculator",
+    "ruby.structure.view.model.defaults.configured": "true"
   }
-}</component>
+}]]></component>
   <component name="RubyModuleManagerSettings">
     <option name="shouldAskUser" value="false" />
     <option name="shouldCreateModules" value="false" />
@@ -58,6 +58,7 @@
       <workItem from="1735107218199" duration="73000" />
       <workItem from="1735107295903" duration="125000" />
       <workItem from="1735107424689" duration="2000" />
+      <workItem from="1735107439612" duration="687000" />
     </task>
     <servers />
   </component>
