@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b68c9e07-9a34-4328-9bdd-84e02b42b2ac" name="Changes" comment="" />
+    <list default="true" id="b68c9e07-9a34-4328-9bdd-84e02b42b2ac" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rspec/string_calculator_rspec.rb" beforeDir="false" afterPath="$PROJECT_DIR$/rspec/string_calculator_rspec.rb" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,15 +24,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "add__operation",
-    "last_opened_file_path": "/Users/vigneshbalakrishnan/string-calculator",
-    "ruby.structure.view.model.defaults.configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;add__operation&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/vigneshbalakrishnan/string-calculator&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RubyModuleManagerSettings">
     <option name="shouldAskUser" value="false" />
     <option name="shouldCreateModules" value="false" />
@@ -59,6 +62,7 @@
       <workItem from="1735107295903" duration="125000" />
       <workItem from="1735107424689" duration="2000" />
       <workItem from="1735107439612" duration="687000" />
+      <workItem from="1735109384992" duration="1810000" />
     </task>
     <servers />
   </component>
